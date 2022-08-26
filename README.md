@@ -1,6 +1,6 @@
 <div align="center">
 
-## Jéje 🏄🏻‍♀️
+# 🏄🏻‍♀️
 
 ![callmejeje's github stats](https://github-readme-stats.vercel.app/api?username=callmejeje&show_icons=true)
 
