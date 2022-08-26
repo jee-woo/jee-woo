@@ -1,4 +1,4 @@
-### Jéje 🏄🏻‍♀️
+## Jéje 🏄🏻‍♀️
 
 <!--
 **callmejeje/callmejeje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--  Majoring in software, Becoming a front-end developer
--  Learning...
+### Majoring in software, Becoming a front-end developer
+<div />
+### Learning...
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
