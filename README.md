@@ -1,3 +1,5 @@
+<div aline="center">
+
 ## Jéje 🏄🏻‍♀️
 
 ![callmejeje's github stats](https://github-readme-stats.vercel.app/api?username=callmejeje&show_icons=true)
@@ -29,3 +31,5 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> 
 </p>
+
+</div>
