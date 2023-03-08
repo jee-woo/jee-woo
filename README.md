@@ -2,10 +2,10 @@
 
 # 🏄🏻‍♀️
 
-![callmejeje's github stats](https://github-readme-stats.vercel.app/api?username=callmejeje&show_icons=true)
+![jee-woo's github stats](https://github-readme-stats.vercel.app/api?username=jee-woo&show_icons=true)
 
 <!--
-**callmejeje/callmejeje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jee-woo/jee-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
