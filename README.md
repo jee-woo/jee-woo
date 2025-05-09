@@ -2,8 +2,7 @@
 
 # 🏄🏻‍♀️
 
-![jee-woo's github stats](https://github-readme-stats.vercel.app/api?username=jee-woo&show_icons=true)
-
+![jee-woo's github stats](https://github-readme-stats.vercel.app/api?username=jee-woo&hide=stars,contribs&count_private=true&show_icons=true)
 
 # 🏅
 ![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choije401)
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Software grad turned Front-end Developer
 
-<div> </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jee-woo&layout=compact)
 
 ### Learning...
 <p>
@@ -39,5 +38,7 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+
+
 
 </div>
